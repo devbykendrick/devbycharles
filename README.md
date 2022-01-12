@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @devbycharles or Charles Rocha
-- 👀 I’m incredily interested in building web applications with great user experiences and I'm aiming to have a career in Frontend Development
+- 👀 I’m incredibly interested in building web applications with great user experiences and I'm aiming to have a career in Frontend Development
 - 🌱 I’m currently learning React.js
-- 📫 Reach me at charlesrocha@alumni.usc.edu
+- 📫 Please reach me at charlesrocha@alumni.usc.edu
