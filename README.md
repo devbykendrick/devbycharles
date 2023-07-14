@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @devbycharles or Charles Rocha
 - 👀 I’m incredibly interested in building web applications with great user experiences and I'm aiming to have a career in Frontend Development
-- 🌱 I’m currently building applications with React.js
+- 🌱 I’m currently building applications with Vue and React
 - 📫 Please reach me at devbycharles@gmail.com
