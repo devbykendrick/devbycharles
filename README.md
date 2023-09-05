@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devbycharles or Charles Rocha
-- 👀 I’m a dedicated Frontend Engineer that has a passion for continuous learning and leveraging cutting-edge technologies to build visually stunning and user-friendly websites
-- 🚀 Growing towards Full-stack Development
+- 👀 I’m a dedicated Full Stack Developer who has a passion for continuous learning and leveraging cutting-edge technologies to build visually stunning and user-friendly websites
 - 👾 Interested in AI and Machine Learning 
-- 🌱 I’m currently building applications with Vue, Node, React, React Native, and Python
+- 🌱 I’m currently building applications with Vue, Node, React, and Python
 - 📫 Please reach me at devbycharles@gmail.com
 - 📄 Portfolio: https://devbycharles.github.io/portfolio/
