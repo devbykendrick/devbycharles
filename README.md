@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devbykendrick or Kendrick
-- 👀 I’m a dedicated Full Stack Developer who has a passion for continuous learning and leveraging cutting-edge technologies to build visually stunning and user-friendly websites
+- 👀 I’m a dedicated Software Engineer who has a passion for continuous learning and leveraging cutting-edge technologies to build visually stunning and user-friendly websites
 - 👾 Interested in AI and Machine Learning 
 - 🌱 I’m currently building applications with Node, React, TypeScript, Python, MySQL, PostgresSQL, and MongoDB
 - 📫 Please reach me at devbykendrick@gmail.com
